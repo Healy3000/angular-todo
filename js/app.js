@@ -11,4 +11,6 @@ angular.module('TodoApp').config(function($locationProvider, $routeProvider) {
         templateUrl: 'templates/register.html',
         controller: 'RegisterController'
     });
+	angular.module('TodoApp', ['ngRoute', 'RouteControllers', 'UserService']);
+
 });
