@@ -3,10 +3,10 @@
   "description": "",
   "main": "index.js",
   "authors": [
-    "Aaron Sinnott <aaronsnig@gmail.com>"
+    "Edward Healy <Edward.francis,healy@outlookc.om>"
   ],
   "license": "ISC",
-  "homepage": "https://github.com/Code-Institute-Org/full_stack_solutions",
+  "homepage": "https://github.com/Healy3000",
   "ignore": [
     "**/.*",
     "node_modules",
